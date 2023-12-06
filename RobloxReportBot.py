@@ -15,7 +15,6 @@ from tkinter import Tk
 from tkinter.filedialog import askopenfile
 
 from selenium import webdriver
-
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.chrome.options import Options
